@@ -1,0 +1,18 @@
+{
+  "name": "gtmun",
+  "version": "1.0.0",
+  "dependencies": {
+    "coffee-script": "1.1.1",
+    "sugarskull": "1.0.0rc4",
+    "union": "0.1.6",
+    "broadway": "0.1.0",
+    "jsdom": "0.2.9",
+    "graft": "0.1.0",
+    "underscore": "1.1.2",
+    "vows": "0.5.2",
+    "jade": "0.5.5",
+    "stylus": "0.19.2",
+    "mongodb": "0.7.9",
+    "bcrypt": "0.1.1"
+  }
+}
